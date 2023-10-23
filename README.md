@@ -26,3 +26,5 @@ References:
 [5] https://www.kaggle.com/code/aadityasinghal/facial-expression-recognization-using-tensorflow#Create-CNN-Model
 
 [6] https://www.kaggle.com/code/sid321axn/step-wise-approach-cnn-model-77-0344-accuracy
+
+NOTE: Do not Plagiarise | Submitted Report for project and assignment | Strict checks in place
